@@ -4,4 +4,3 @@ FROM node:20-alpine
   RUN npm install
   COPY index.js .
   CMD ["node", "index.js"]
-  Commit.
