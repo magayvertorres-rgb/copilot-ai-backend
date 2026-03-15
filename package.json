@@ -1,0 +1,9 @@
+{
+    "name": "copilot-ai-backend",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+      "mqtt": "^5.3.4",
+      "@google/generative-ai": "^0.7.1"
+    }
+  }
